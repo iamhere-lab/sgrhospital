@@ -1,0 +1,58 @@
+.elementor-kit-6{--e-global-color-primary:#FFACA1;--e-global-color-secondary:#002D37;--e-global-color-text:#161616;--e-global-color-accent:#002D37;--e-global-color-bd7ae5c:#004254;--e-global-color-d3ffabd:#00A6C1;--e-global-color-ce17a74:#FFFFFF;--e-global-typography-primary-font-family:"AramezaDemo";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Inter";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Inter";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"AramezaDemo";--e-global-typography-accent-font-weight:500;font-family:"Inter", Sans-serif;}.elementor-kit-6 a{font-family:"Inter", Sans-serif;}.elementor-kit-6 h1{font-family:"AramezaDemo", Sans-serif;}.elementor-kit-6 h2{font-family:"AramezaDemo", Sans-serif;}.elementor-kit-6 h3{font-family:"AramezaDemo", Sans-serif;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'AramezaDemo';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../wp-content/uploads/2024/07/AramezaDemo-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'AramezaDemo';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../wp-content/uploads/2024/07/AramezaDemo-Italic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../wp-content/uploads/2024/07/Inter-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../../../../wp-content/uploads/2024/07/Inter-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../wp-content/uploads/2024/07/Inter-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../../../wp-content/uploads/2024/07/Inter-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('../../../../wp-content/uploads/2024/07/Inter-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../../../wp-content/uploads/2024/07/Inter-Thin.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

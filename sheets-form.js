@@ -1,6 +1,6 @@
 /* SGR Hospital: send every Elementor form (page + popup) to a Google Sheet.
    Paste your Google Apps Script Web App URL below (ends in /exec). */
-var SGR_SHEET_URL = "PASTE_YOUR_APPS_SCRIPT_URL_HERE";
+var SGR_SHEET_URL = "https://script.google.com/macros/s/AKfycbwuGKI-mIoEo5mIKPf_Wu3D2erkLBhO_4LLydqGKhZXgk_B_d4fjZ7d34-ZXhKoEQmY/exec";
 
 (function () {
   var NAMES = { field_724fc34: "Treatment", field_d9aeacf: "Mobile number" };
